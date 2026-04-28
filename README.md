@@ -31,8 +31,8 @@ This is my solution to the Recipe Page challenge from Frontend Mentor. This proj
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/your-solution
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://www.frontendmentor.io/solutions/recipe-page-solution-FI66Jo5Ov8
+- Live Site URL: https://aditiyas10.github.io/recipe-page/
 
 ---
 
